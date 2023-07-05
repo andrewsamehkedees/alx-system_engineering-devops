@@ -1,2 +1,2 @@
 #!/bin/bash
-cd "$(dirname "$0")" && cp -u --parents *.html ../
+cp -u --parents *.html ../
