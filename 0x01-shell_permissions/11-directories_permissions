@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R <permissionsettings> <dirname>
+chmod -R 111 <dirname>
