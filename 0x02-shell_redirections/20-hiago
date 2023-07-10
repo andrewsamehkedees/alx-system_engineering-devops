@@ -1,2 +1,2 @@
 #!/bin/bash
-read input; echo "${input//[cC]}"
+tr -d cC
