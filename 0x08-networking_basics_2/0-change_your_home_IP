@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Change localhost resolution to 127.0.0.2
 echo "127.0.0.2 localhost" | sudo tee -a /etc/hosts
 # Change facebook.com resolution to 8.8.8.8
